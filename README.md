@@ -18,6 +18,7 @@ source <(curl -fsSL https://raw.githubusercontent.com/Bhartiya-Hacker/Hydra-Term
 # Mannual Installation:-
 
 ```bash
+pkg install wget
 wget https://github.com/Bhartiya-Hacker/Hydra-Termux/raw/master/hydra.sh
 chmod +x hydra.sh
 bash hydra.sh
